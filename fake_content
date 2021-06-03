@@ -1,0 +1,134 @@
+{
+    "user": [
+        {
+            "firstName" : "Ada",
+            "lastName" : "Church",
+            "username" : "Closure", 
+            "uuid" : "79011f33-01e5-4301-b047-2f04be2b2782",
+            "DoB" :[
+                {
+                    "year" : "2021",
+                    "month" : "05",
+                    "day" : "26"
+                }
+            ],
+            "sex" : "F",
+            "user_listings" : [
+                {
+                    "listing_id" : "79011f33-01e5-4301-b047-2f04be2b2782", 
+                    "listing_desc" : "Your storefront page"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                }
+            ],
+            "user_posts" : [
+                {
+                    "post_id" : "79011f33-01e5-4301-b047-2f04be2b2782",
+                    "post_desc" : "Your own profile page"
+                }
+            ],
+            "user_cart" : [
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                },
+                {
+                    "listing_id" : "<listing.id>", 
+                    "listing_desc" : "<item.title>"
+                }
+            ],
+            "tel" : 
+            {
+                "nation-code" : "1",
+                "area-code" : "831", 
+                "other-code" : "555-1234"
+            },
+            "community" : [
+                {
+                    "label" : "Home",
+                    "nation" : "US",
+                    "state" : "California", 
+                    "city" : "Santa Cruz", 
+                    "zip" : "95060"
+                },
+                {
+                    "label" : "Work",
+                    "nation" : "US",
+                    "zip" : "95064", 
+                    "city" : "Santa Cruz (UCSC)", 
+                    "state" : "California"
+                }
+            ],
+            "address" : [
+                {
+                    "label" : "Mailing Address", 
+                    "nation" : "US",
+                    "state" : "California", 
+                    "city" : "Santa Cruz", 
+                    "street-line1" : "1156 High St",
+                    "street-line2" : "",
+                    "recipient" : "UC Santa Cruz", 
+                    "zip" : "95060"
+                },
+                {
+                    "label" : "Mailing Address", 
+                    "nation" : "US",
+                    "state" : "California", 
+                    "city" : "Santa Cruz", 
+                    "street-line1" : "130 McAllister Way",
+                    "street-line2" : "",
+                    "recipient" : "UC Santa Cruz - Marine Lab", 
+                    "zip" : "95064"
+                }
+            ]
+        },
+        {
+            "firstName" : "Hui-chieh",
+            "lastName" : "Ch'en",
+            "username" : "Ch'en", 
+            "uuid" : "45dd6dbb-1fa5-4180-bdf7-607e79062430",
+            "DoB" :[
+                {
+                    "year" : "1024",
+                    "month" : "07",
+                    "day" : "07"
+                }
+            ],
+            "sex" : "F",
+            "user_listings" : [
+                {
+                    "listing_id" : "79011f33-01e5-4301-b047-2f04be2b2782", 
+                    "listing_desc" : "Your storefront page"
+                }
+            ],
+            "user_posts" : [
+                {
+                    "post_id" : "79011f33-01e5-4301-b047-2f04be2b2782",
+                    "post_desc" : "Your own profile page"
+                }
+            ]
+        }
+    ]
+}
